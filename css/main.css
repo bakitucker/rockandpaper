@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image: url(../img/52427.jpeg);
+    color: yellow;
+    text-align: center;
+    margin-top: 242px;
+    font-size: 19px;
+    font-size: bold;
+    
+}
+.scoreboard{
+    text-align: center;
+}
+
+table{
+    margin-left: 48%;
+}
